@@ -7,7 +7,7 @@
             echo 'status=0';
         } else {
             header( "HTTP/1.1 301 Moved Permanently"); 
-            header("Location: https://sdrotg.com/manual/admin.html#%E4%BB%8E%E5%A4%96%E9%83%A8%E8%BF%9E%E5%85%A5-flydog-sdr"); 
+            header("Location: https://sdrotg.com/en/manual/public.html#using-reverse-proxy"); 
         }
 ?>
 
